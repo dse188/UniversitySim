@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      braids_tie_grey_0: -8658523980910770482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      earring_red_silver_jump_0: -2393324448257619524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

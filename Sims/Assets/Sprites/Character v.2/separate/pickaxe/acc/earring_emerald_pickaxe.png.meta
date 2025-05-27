@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      earring_emerald_pickaxe_0: -264565354662733571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

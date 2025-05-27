@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hat_cowboy_die_0: 117882853641405659
+      hat_cowboy_die_1: -8215633295602315757
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shoes_pickaxe_0: -8432979785525178929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      clown_die_0: -4237624600393851699
+      clown_die_1: 8503025643988193842
+      clown_die_2: 9154141874080217552
+      clown_die_3: -5899943352389637086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

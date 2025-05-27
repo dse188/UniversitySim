@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      suit_tie_grey_0: 6068250425051182789
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

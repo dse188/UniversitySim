@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shoes_fish_0: 1487247270688753743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

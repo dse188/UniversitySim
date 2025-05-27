@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      glasses_sun_grey_0: -3243022677693249527
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

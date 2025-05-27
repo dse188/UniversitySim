@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      earring_base_0: 4807797355230915040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

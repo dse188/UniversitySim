@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      glasses_fish_0: -2214815136861440911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

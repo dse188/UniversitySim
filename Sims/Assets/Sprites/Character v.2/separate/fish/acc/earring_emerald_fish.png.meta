@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      earring_emerald_fish_0: 8264312962252974316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

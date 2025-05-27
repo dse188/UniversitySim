@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spooky_die_0: -1528211380525933103
+      spooky_die_1: -1867639167511183160
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

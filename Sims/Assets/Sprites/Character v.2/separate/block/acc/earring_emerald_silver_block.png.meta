@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      earring_emerald_silver_block_0: -627228201152517848
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
